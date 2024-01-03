@@ -24,7 +24,8 @@ To launch a basic version of the leaderboard with essential functionalities.
 1. How seriously are you evaluating AI for solutions?
 2. What is important in the models that you have chosen?
 3. Do you believe these solutions would require low-resource language data?
-4. Are you using any AI users to understand your users today? Choose from openAI, 
+4. Are you using any AI users to understand your users today? Choose from openAI,
+5. What are common questions that their customers would ask? In local language. Just record and send in whatsapp.
 
 
 ### Steps:
