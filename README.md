@@ -4,24 +4,37 @@
 
 ## Personas
 1. **Producers.** Interested in making better models. Researchers primarily.
-2. **Consumers.** Interested in using better models. NGOs, Orgs like PayTM, etc.
+2. **Consumers.** Interested in using better models.
+- NGOs like ARTPARK, Wadhwani, etc.
+- Grassroots NGOs like Avanti, DigitalGreen, Pratham (education), etc.
+- Private Orgs like PayTM, Setu, etc.
+- Indic language content producers - InShorts, DailyHunt, KukuFM, etc.
 
 
 ## How do we measure our success?
-1. Usage by organisations -
-2. Citations (for the white paper)
-3. Engagement with researchers - 
+1. Usage by organisations - Get 20/30 organisations that use the leaderboard. Get their translations and publish.
+2. Citations (for the white paper). 
+3. Engagement with researchers. 
 
 ## Version 0 (v0): Initial Launch PoC
 ### Objective:
 To launch a basic version of the leaderboard with essential functionalities.
 
+### Hypotheses - what we want to get from the organisations.
+1. How seriously are you evaluating AI for solutions?
+2. What is important in the models that you have chosen?
+3. Do you believe these solutions would require low-resource language data?
+4. Are you using any AI users to understand your users today? Choose from openAI, 
+
+
 ### Features:
-1. Leaderboard Interface: A simple user interface showcasing basic comparison results.
-2. Indian Languages Map: Integration of a map displaying the diversity of Indian languages, highlighting the need for low-resource language AI models.
-3. Initial Model Set: Incorporation of basic AI models for initial testing, focusing on Hindi, Kannada, and Telugu.
-4. Data Submission Interface (?): Allow organizations to submit their audio samples for testing (Gooey.ai will be a provider mentioned but since it is open-source, we can expect other companies to add such a CTA to this leaderboard).
-5. Basic Comparison Algorithm: A simple algorithm to compare model performance using submitted data.
+1. Make a small email for the asks. Design a questionnare on how orgs would use the leaderboard. Also would help in demand testing. (eg. DigitalGreen
+2. Write a white-paper.
+3. Leaderboard Interface: A simple user interface showcasing basic comparison results.
+4. Indian Languages Map: Integration of a map displaying the diversity of Indian languages, highlighting the need for low-resource language AI models.
+5. Initial Model Set: Incorporation of basic AI models for initial testing, focusing on Hindi, Kannada, and Telugu.
+6. Data Submission Interface (?): Allow organizations to submit their audio samples for testing (Gooey.ai will be a provider mentioned but since it is open-source, we can expect other companies to add such a CTA to this leaderboard).
+7. Basic Comparison Algorithm: A simple algorithm to compare model performance using submitted data.
    
 ### Timeline: 
 March 1st 2023 (4 cycles from January).
