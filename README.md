@@ -1,6 +1,7 @@
 # Goals: 
 1. Catalyze the industry to create better low-resource language AI models by creating a popular, highly referenced destination for researchers (and the press) to compare models.
-2.  Provide a place where organizations can determine which AI Speech recognition and translation models work best for their particular use case, especially with low-resource languages, starting with Indian languages. 
+2.  Provide a place where organizations can determine which AI Speech recognition and translation models work best for their particular use case, especially with low-resource languages, starting with Indian languages.
+3.  Long-term environment for Language data (a HuggingFace version).
 
 ## Personas
 1. **Producers.** Interested in making better models. Researchers primarily.
@@ -10,11 +11,10 @@
 - Private Orgs like PayTM, Setu, etc.
 - Indic language content producers - InShorts, DailyHunt, KukuFM, etc.
 
-
 ## How do we measure our success?
-1. Usage by organisations - Get 20/30 organisations that use the leaderboard. Get their translations and publish.
+1. Usage by organisations - Get 20/30 organisations that use the leaderboard. Get their translations and publish. 
 2. Citations (for the white paper). 
-3. Engagement with researchers. 
+3. Engagement with researchers.
 
 ## Version 0 (v0): Initial Launch PoC
 ### Objective:
