@@ -15,11 +15,12 @@ To launch a basic version of the leaderboard with essential functionalities.
 5. Basic Comparison Algorithm: A simple algorithm to compare model performance using submitted data.
    
 ### Timeline: 
-March 1st 2023.
+March 1st 2023 (4 cycles from January).
 
 ### Open Questions
 1. Is the timeline feasible?
 2. What would this version cost? Does this need sponsorship?
+
 
 ## Version 1 (v1): Expanded Capabilities with Sponsorship
 
@@ -31,4 +32,13 @@ To enhance the leaderboard with more features and broader language support.
 2. Enhanced Comparison Algorithm: Improved algorithm for more accurate model comparisons.
 3. Partners Integration: Onboard new partners and integrate their models into the leaderboard.
 
-## Version 1 (v1): Expanded Capabilities
+## Version 2 (v2): Advanced Features and Global Expansion
+### Objective:
+To position the leaderboard as a globally recognized platform for low-resource language AI model comparison.
+
+### Features:
+1. Global Language Inclusion: Expand the leaderboard to include low-resource languages from around the world.
+2. Community Engagement: Foster a community for discussions, feedback, and collaborative improvements.
+3. Marketing and Outreach: Intensify marketing efforts for global reach and recognition.
+
+Timeline: October 2023.
