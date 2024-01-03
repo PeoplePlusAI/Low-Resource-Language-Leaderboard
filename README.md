@@ -12,7 +12,7 @@
 - Indic language content producers - InShorts, DailyHunt, KukuFM, etc.
 
 ## How do we measure our success?
-1. Usage by organisations - Get 20/30 organisations that use the leaderboard. Get their translations and publish. 
+1. Usage by organisations - Get 20/30 organisations that use the leaderboard. Get their translations and publish. Get diversity in languages. 8-10.
 2. Citations (for the white paper). 
 3. Engagement with researchers.
 
@@ -37,6 +37,8 @@ To launch a basic version of the leaderboard with essential functionalities.
 7. Basic Comparison Algorithm: A simple algorithm to compare model performance using submitted data.
    
 ### Timeline: 
+Cycle 1 - 
+Cycle 2 - 
 March 1st 2023 (4 cycles from January).
 
 ### Open Questions
