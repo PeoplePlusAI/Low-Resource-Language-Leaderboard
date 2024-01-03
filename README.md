@@ -2,6 +2,15 @@
 1. Catalyze the industry to create better low-resource language AI models by creating a popular, highly referenced destination for researchers (and the press) to compare models.
 2.  Provide a place where organizations can determine which AI Speech recognition and translation models work best for their particular use case, especially with low-resource languages, starting with Indian languages. 
 
+## Personas
+1. **Producers.** Interested in making better models. Researchers primarily.
+2. **Consumers.** Interested in using better models. NGOs, Orgs like PayTM, etc.
+
+
+## How do we measure our success?
+1. Usage by organisations -
+2. Citations (for the white paper)
+3. Engagement with researchers - 
 
 ## Version 0 (v0): Initial Launch PoC
 ### Objective:
