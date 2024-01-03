@@ -27,14 +27,16 @@ To launch a basic version of the leaderboard with essential functionalities.
 4. Are you using any AI users to understand your users today? Choose from openAI, 
 
 
-### Features:
+### Steps:
 1. Make a small email for the asks. Design a questionnare on how orgs would use the leaderboard. Also would help in demand testing. (eg. DigitalGreen
 2. Write a white-paper.
-3. Leaderboard Interface: A simple user interface showcasing basic comparison results.
-4. Indian Languages Map: Integration of a map displaying the diversity of Indian languages, highlighting the need for low-resource language AI models.
-5. Initial Model Set: Incorporation of basic AI models for initial testing, focusing on Hindi, Kannada, and Telugu.
-6. Data Submission Interface (?): Allow organizations to submit their audio samples for testing (Gooey.ai will be a provider mentioned but since it is open-source, we can expect other companies to add such a CTA to this leaderboard).
-7. Basic Comparison Algorithm: A simple algorithm to compare model performance using submitted data.
+
+### Features:
+1. Leaderboard Interface: A simple user interface showcasing basic comparison results.
+2. Indian Languages Map: Integration of a map displaying the diversity of Indian languages, highlighting the need for low-resource language AI models.
+3. Initial Model Set: Incorporation of basic AI models for initial testing, focusing on Hindi, Kannada, and Telugu.
+4. Data Submission Interface (?): Allow organizations to submit their audio samples for testing (Gooey.ai will be a provider mentioned but since it is open-source, we can expect other companies to add such a CTA to this leaderboard).
+5. Basic Comparison Algorithm: A simple algorithm to compare model performance using submitted data.
    
 ### Timeline: 
 Cycle 1 - 
